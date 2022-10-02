@@ -1,0 +1,12 @@
+section{
+        background-image: url(./imagenes_integrador_front/ba1.jpg);
+        background-color: rgb(50, 50, 50);
+        background-blend-mode: soft-light;
+}
+
+article{
+        display: flex;
+        flex-direction: row-reverse;
+        height: 500px;
+        align-items: center;
+}
